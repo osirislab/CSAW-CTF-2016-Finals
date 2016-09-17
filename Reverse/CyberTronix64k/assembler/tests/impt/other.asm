@@ -1,0 +1,9 @@
+public impt_other_start:
+	mi 0x200, 'H'
+	mi 0x200, 'e'
+	mi 0x200, 'l'
+	mi 0x200, 'l'
+	mi 0x200, 'o'
+	mi 0x200, '!'
+	mi 0x200, '\n'
+  hf

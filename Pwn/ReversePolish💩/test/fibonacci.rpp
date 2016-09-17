@@ -1,0 +1,26 @@
+# def fib(N):
+{ `N` def
+  {
+    # fib(N - 1) + fib(N - 2)
+    1 N - 2 N -
+    fib swap fib +
+  }
+  N
+  2 N <
+  ifte eval
+  # if N < 2 { N } else { fib(N - 1) + fib(N - 2) }
+}
+`fib`
+def
+
+0 fib print
+1 fib print
+2 fib print
+3 fib print
+4 fib print
+5 fib print
+6 fib print
+7 fib print
+8 fib print
+9 fib print
+10 fib print

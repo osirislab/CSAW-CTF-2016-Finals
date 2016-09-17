@@ -1,0 +1,12 @@
+[Unit]
+Description=thimblerig
+After=network.target thimblerig.socket
+Requires=thimblerig.socket
+
+[Service]
+ExecStart=-/home/griftah/thimblerig
+WorkingDirectory=/home/griftah
+User=griftah
+Group=griftah
+StandardInput=socket
+StandardOutput=socket

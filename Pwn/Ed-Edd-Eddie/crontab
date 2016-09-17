@@ -1,0 +1,2 @@
+* * * * * root tmpreaper 1m /tmp >> /var/log/cron.log 2>&1
+
